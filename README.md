@@ -1,4 +1,11 @@
-### Hi there 👋
+- 🌱 努力学习ML
+- 💬 啥都会一点，啥都不精/(ㄒoㄒ)/~~
+- 🤔 找工作？
+- 😄 长期做趣味项目，但是打算改邪归正，不再做了~
+- 👯 PPDE, 飞桨上海领航团团长~
+- BiliBili:[九尾妖熊](https://space.bilibili.com/2054826)
+[![ninetailskim's github stats](https://github-readme-stats.vercel.app/api?username=ninetailskim)](https://github.com/ninetailskim/github-readme-stats)
+
 
 <!--
 **ninetailskim/ninetailskim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
