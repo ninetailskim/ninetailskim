@@ -5,7 +5,7 @@
 - 👯 PPDE, 飞桨上海领航团团长~   
 - 🅱️ BiliBili: [九尾妖熊](https://space.bilibili.com/2054826)   
 - 🅰️ AiStudio: [ninetailskim](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/311006)
-- 📨 有任何问题可以通过上面的方式联系我，或者
+- 📨 有任何问题可以通过上面的方式联系我，或者邮件iregisteru@163.com
  
 [![ninetailskim's github stats](https://github-readme-stats.vercel.app/api?username=ninetailskim)](https://github.com/ninetailskim/github-readme-stats)
 
